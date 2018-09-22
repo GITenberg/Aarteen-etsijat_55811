@@ -1,21 +1,26 @@
 _repo: Aarteen-etsijat_55811
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Joutsen, O. A.
-    birthdate: &id001 1878
+    birthdate: 1878
     deathdate: 1936
     gutenberg_agent_id: '33476'
     url: http://www.gutenberg.org/2009/agents/33476
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Curwood, James Oliver
-    birthdate: *id001
+    birthdate: 1878
     deathdate: 1927
     gutenberg_agent_id: '1487'
     url: http://www.gutenberg.org/2009/agents/1487
     wikipedia: http://en.wikipedia.org/wiki/James_Oliver_Curwood
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55811#Aarteen-etsijat
 gutenberg_issued: '2017-10-25'
 gutenberg_type: Text
 identifiers:
